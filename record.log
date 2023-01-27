@@ -1,0 +1,327 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+DEBUG:app:Listado personas:[<Persona 1>, <Persona 2>]
+DEBUG:app:Listado personas:2
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 12:53:46] "GET /index HTTP/1.1" 200 -
+DEBUG:app:Listado personas:[<Persona 1>, <Persona 2>]
+DEBUG:app:Listado personas:2
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 12:55:23] "GET /index HTTP/1.1" 200 -
+DEBUG:app:Listado personas:[<Persona 1>, <Persona 2>]
+DEBUG:app:Listado personas:2
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 12:55:24] "GET /index HTTP/1.1" 200 -
+DEBUG:app:Listado personas:[<Persona 1>, <Persona 2>]
+DEBUG:app:Listado personas:2
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 12:55:24] "GET /index HTTP/1.1" 200 -
+DEBUG:app:Listado personas:[<Persona 1>, <Persona 2>]
+DEBUG:app:Listado personas:2
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 12:55:24] "GET /index HTTP/1.1" 200 -
+DEBUG:app:Listado personas:[<Persona 1>, <Persona 2>]
+DEBUG:app:Listado personas:2
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 12:55:24] "GET /index HTTP/1.1" 200 -
+DEBUG:app:Listado personas:[<Persona 1>, <Persona 2>]
+DEBUG:app:Listado personas:2
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 12:55:24] "GET /index HTTP/1.1" 200 -
+DEBUG:app:Listado personas:[<Persona 1>, <Persona 2>]
+DEBUG:app:Listado personas:2
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 12:55:24] "GET /index HTTP/1.1" 200 -
+DEBUG:app:Listado personas:[<Persona 1>, <Persona 2>]
+DEBUG:app:Listado personas:2
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 13:01:36] "GET /index HTTP/1.1" 200 -
+DEBUG:app:Listado personas:[<Persona 1>, <Persona 2>]
+DEBUG:app:Listado personas:2
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 13:01:36] "GET /index HTTP/1.1" 200 -
+DEBUG:app:Listado personas:[<Persona 1>, <Persona 2>]
+DEBUG:app:Listado personas:2
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 13:01:37] "GET /index HTTP/1.1" 200 -
+DEBUG:app:Listado personas:[<Persona 1>, <Persona 2>]
+DEBUG:app:Listado personas:2
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 13:01:37] "GET /index HTTP/1.1" 200 -
+DEBUG:app:Listado personas:[<Persona 1>, <Persona 2>]
+DEBUG:app:Listado personas:2
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 13:01:37] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+DEBUG:app:Listado personas:[<Persona 1>, <Persona 2>]
+DEBUG:app:Listado personas:2
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 13:02:53] "GET /index HTTP/1.1" 200 -
+DEBUG:app:Listado personas:[<Persona 1>, <Persona 2>]
+DEBUG:app:Listado personas:2
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 13:07:36] "GET / HTTP/1.1" 200 -
+DEBUG:app:Listado personas:[<Persona 1>, <Persona 2>]
+DEBUG:app:Listado personas:2
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 13:10:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+DEBUG:app:Listado personas:[<Persona 1>, <Persona 2>]
+DEBUG:app:Listado personas:2
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 13:20:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 13:20:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 13:20:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+DEBUG:app:Listado personas:[<Persona 1>, <Persona 2>]
+DEBUG:app:Listado personas:2
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 13:29:42] "GET / HTTP/1.1" 200 -
+DEBUG:app:Listado personas:[<Persona 1>, <Persona 2>]
+DEBUG:app:Listado personas:2
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 13:29:48] "GET / HTTP/1.1" 200 -
+DEBUG:app:Listado personas:[<Persona 1>, <Persona 2>]
+DEBUG:app:Listado personas:2
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 13:29:48] "GET / HTTP/1.1" 200 -
+DEBUG:app:Listado personas:[<Persona 1>, <Persona 2>]
+DEBUG:app:Listado personas:2
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 13:29:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 13:29:52] "[33mGET /ver HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 13:29:56] "[33mGET /ver/1 HTTP/1.1[0m" 404 -
+DEBUG:app:Listado personas:[<Persona 1>, <Persona 2>]
+DEBUG:app:Listado personas:2
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 13:30:22] "GET / HTTP/1.1" 200 -
+DEBUG:app:Listado personas:[<Persona 1>, <Persona 2>]
+DEBUG:app:Listado personas:2
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 13:30:23] "GET / HTTP/1.1" 200 -
+DEBUG:app:Listado personas:[<Persona 1>, <Persona 2>]
+DEBUG:app:Listado personas:2
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 13:30:23] "GET / HTTP/1.1" 200 -
+DEBUG:app:Listado personas:[<Persona 1>, <Persona 2>]
+DEBUG:app:Listado personas:2
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 13:30:23] "GET / HTTP/1.1" 200 -
+DEBUG:app:Listado personas:[<Persona 1>, <Persona 2>]
+DEBUG:app:Listado personas:2
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 13:30:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 13:30:43] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 13:30:47] "[33mGET /ver HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 13:31:11] "[33mGET /detalle.html HTTP/1.1[0m" 404 -
+DEBUG:app:Listado personas:[<Persona 1>, <Persona 2>]
+DEBUG:app:Listado personas:2
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 13:31:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+DEBUG:app:Listado personas:[<Persona 1>, <Persona 2>]
+DEBUG:app:Listado personas:2
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 13:31:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 13:31:37] "GET /ver/1 HTTP/1.1" 200 -
+DEBUG:app:Listado personas:[<Persona 1>, <Persona 2>]
+DEBUG:app:Listado personas:2
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 13:31:39] "GET /index.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2022 13:31:42] "GET /ver/1 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+ERROR:app:Exception on / [GET]
+Traceback (most recent call last):
+  File "C:\Users\itzel\PycharmProjects\SapFlask\venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\itzel\PycharmProjects\SapFlask\venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\itzel\PycharmProjects\SapFlask\venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\itzel\PycharmProjects\SapFlask\venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\itzel\PycharmProjects\SapFlask\app.py", line 48, in inicio
+    def inicio():
+NameError: name 'Persona' is not defined
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2022 10:28:21] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2022 10:28:22] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+ERROR:app:Exception on / [GET]
+Traceback (most recent call last):
+  File "C:\Users\itzel\PycharmProjects\SapFlask\venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\itzel\PycharmProjects\SapFlask\venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\itzel\PycharmProjects\SapFlask\venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\itzel\PycharmProjects\SapFlask\venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\itzel\PycharmProjects\SapFlask\app.py", line 48, in inicio
+    def inicio():
+NameError: name 'Persona' is not defined
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2022 10:28:35] "[35m[1mGET / HTTP/1.1[0m" 500 -
+ERROR:app:Exception on / [GET]
+Traceback (most recent call last):
+  File "C:\Users\itzel\PycharmProjects\SapFlask\venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\itzel\PycharmProjects\SapFlask\venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\itzel\PycharmProjects\SapFlask\venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\itzel\PycharmProjects\SapFlask\venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\itzel\PycharmProjects\SapFlask\app.py", line 48, in inicio
+    @app.route('/index.html')
+NameError: name 'Persona' is not defined
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2022 10:32:23] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2022 10:32:50] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2022 10:32:55] "[33mGET /redireccionar HTTP/1.1[0m" 404 -
+ERROR:app:Exception on / [GET]
+Traceback (most recent call last):
+  File "C:\Users\itzel\PycharmProjects\SapFlask\venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\itzel\PycharmProjects\SapFlask\venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\itzel\PycharmProjects\SapFlask\venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\itzel\PycharmProjects\SapFlask\venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\itzel\PycharmProjects\SapFlask\app.py", line 48, in inicio
+    @app.route('/index.html')
+NameError: name 'Persona' is not defined
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2022 10:33:04] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2022 10:45:32] "GET /ver/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2022 10:45:33] "GET /ver/1 HTTP/1.1" 200 -
+DEBUG:app:Listado personas:[<Persona 1>, <Persona 2>]
+DEBUG:app:Listado personas:2
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2022 10:45:34] "GET /index.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2022 11:00:06] "[33mGET /agregar.html HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2022 11:04:19] "[33mGET /agregar.html HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2022 11:04:39] "GET /agregar HTTP/1.1" 200 -
+DEBUG:app:Listado personas:[<Persona 1>, <Persona 2>]
+DEBUG:app:Listado personas:2
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2022 11:05:05] "GET /index.html HTTP/1.1" 200 -
+DEBUG:app:Listado personas:[<Persona 1>, <Persona 2>]
+DEBUG:app:Listado personas:2
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2022 11:05:06] "GET /index.html HTTP/1.1" 200 -
+DEBUG:app:Listado personas:[<Persona 1>, <Persona 2>]
+DEBUG:app:Listado personas:2
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2022 11:05:10] "GET /index.html HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+DEBUG:app:Listado personas:[<Persona 1>, <Persona 2>]
+DEBUG:app:Listado personas:2
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2022 11:05:26] "GET /index.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2022 11:05:27] "GET /agregar HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2022 11:07:33] "GET /agregar HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2022 11:07:34] "GET /agregar HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2022 12:26:56] "GET /agregar HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2022 12:27:13] "POST /agregar HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2022 12:27:14] "POST /agregar HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2022 12:27:14] "POST /agregar HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2022 12:27:14] "POST /agregar HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2022 12:39:01] "POST /agregar HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2022 12:39:11] "POST /agregar HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2022 12:39:13] "POST /agregar HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+DEBUG:app:Persona a insertar:Id:None,Nombre:Pepe,Apellido:Lara,Email:plara@gmail.com
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2022 12:41:31] "[32mPOST /agregar HTTP/1.1[0m" 302 -
+DEBUG:app:Listado personas:[<Persona 1>, <Persona 2>, <Persona 3>]
+DEBUG:app:Listado personas:3
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2022 12:41:31] "GET /index.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2022 12:41:34] "GET /agregar HTTP/1.1" 200 -
+DEBUG:app:Persona a insertar:Id:None,Nombre:Keila,Apellido:juarez,Email:i
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2022 12:41:48] "[32mPOST /agregar HTTP/1.1[0m" 302 -
+DEBUG:app:Listado personas:[<Persona 1>, <Persona 2>, <Persona 3>, <Persona 4>]
+DEBUG:app:Listado personas:4
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2022 12:41:48] "GET /index.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2022 12:52:03] "[33mGET /editar.html HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2022 12:57:17] "[33mGET /editar.html HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2022 12:57:21] "GET /agregar HTTP/1.1" 200 -
+DEBUG:app:Listado personas:[<Persona 1>, <Persona 2>, <Persona 3>, <Persona 4>]
+DEBUG:app:Listado personas:4
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2022 12:59:12] "GET /index.html HTTP/1.1" 200 -
+DEBUG:app:Listado personas:[<Persona 1>, <Persona 2>, <Persona 3>, <Persona 4>]
+DEBUG:app:Listado personas:4
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2022 12:59:13] "GET /index.html HTTP/1.1" 200 -
+DEBUG:app:Listado personas:[<Persona 1>, <Persona 2>, <Persona 3>, <Persona 4>]
+DEBUG:app:Listado personas:4
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2022 12:59:14] "GET /index.html HTTP/1.1" 200 -
+DEBUG:app:Listado personas:[<Persona 1>, <Persona 2>, <Persona 3>, <Persona 4>]
+DEBUG:app:Listado personas:4
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2022 12:59:14] "GET /index.html HTTP/1.1" 200 -
+DEBUG:app:Listado personas:[<Persona 1>, <Persona 2>, <Persona 3>, <Persona 4>]
+DEBUG:app:Listado personas:4
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2022 12:59:22] "GET /index.html HTTP/1.1" 200 -
+DEBUG:app:Listado personas:[<Persona 1>, <Persona 2>, <Persona 3>, <Persona 4>]
+DEBUG:app:Listado personas:4
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2022 12:59:24] "GET /index.html HTTP/1.1" 200 -
+DEBUG:app:Listado personas:[<Persona 1>, <Persona 2>, <Persona 3>, <Persona 4>]
+DEBUG:app:Listado personas:4
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2022 12:59:33] "GET /index.html HTTP/1.1" 200 -
+DEBUG:app:Listado personas:[<Persona 1>, <Persona 2>, <Persona 3>, <Persona 4>]
+DEBUG:app:Listado personas:4
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2022 12:59:34] "GET /index.html HTTP/1.1" 200 -
+DEBUG:app:Listado personas:[<Persona 1>, <Persona 2>, <Persona 3>, <Persona 4>]
+DEBUG:app:Listado personas:4
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2022 13:01:46] "GET /index.html HTTP/1.1" 200 -
+DEBUG:app:Listado personas:[<Persona 1>, <Persona 2>, <Persona 3>, <Persona 4>]
+DEBUG:app:Listado personas:4
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2022 13:01:46] "GET /index.html HTTP/1.1" 200 -
+DEBUG:app:Listado personas:[<Persona 1>, <Persona 2>, <Persona 3>, <Persona 4>]
+DEBUG:app:Listado personas:4
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2022 13:01:46] "GET /index.html HTTP/1.1" 200 -
+DEBUG:app:Listado personas:[<Persona 1>, <Persona 2>, <Persona 3>, <Persona 4>]
+DEBUG:app:Listado personas:4
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2022 13:01:46] "GET /index.html HTTP/1.1" 200 -
+DEBUG:app:Listado personas:[<Persona 1>, <Persona 2>, <Persona 3>, <Persona 4>]
+DEBUG:app:Listado personas:4
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2022 13:01:47] "GET /index.html HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+DEBUG:app:Listado personas:[<Persona 1>, <Persona 2>, <Persona 3>, <Persona 4>]
+DEBUG:app:Listado personas:4
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2022 13:02:00] "GET /index.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2022 13:02:12] "GET /editar/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2022 13:02:15] "POST /editar/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2022 13:02:16] "POST /editar/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2022 13:10:02] "POST /editar/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2022 13:10:03] "POST /editar/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2022 13:10:04] "POST /editar/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2022 13:10:04] "POST /editar/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2022 13:10:04] "POST /editar/1 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2022 13:10:24] "[32mPOST /editar/1 HTTP/1.1[0m" 302 -
+DEBUG:app:Listado personas:[<Persona 2>, <Persona 3>, <Persona 4>, <Persona 1>]
+DEBUG:app:Listado personas:4
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2022 13:10:24] "GET /index.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2022 13:10:26] "GET /editar/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2022 13:10:29] "[32mPOST /editar/1 HTTP/1.1[0m" 302 -
+DEBUG:app:Listado personas:[<Persona 2>, <Persona 3>, <Persona 4>, <Persona 1>]
+DEBUG:app:Listado personas:4
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2022 13:10:29] "GET /index.html HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+DEBUG:app:Listado personas:[<Persona 2>, <Persona 3>, <Persona 4>, <Persona 1>]
+DEBUG:app:Listado personas:4
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2022 13:17:08] "GET /index.html HTTP/1.1" 200 -
+DEBUG:app:Listado personas:[<Persona 2>, <Persona 3>, <Persona 4>, <Persona 1>]
+DEBUG:app:Listado personas:4
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2022 13:17:08] "GET /index.html HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+DEBUG:app:Listado personas:[<Persona 2>, <Persona 3>, <Persona 4>, <Persona 1>]
+DEBUG:app:Listado personas:4
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2022 13:17:50] "GET /index.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2022 13:17:51] "[32mGET /eliminar/3 HTTP/1.1[0m" 302 -
+DEBUG:app:Listado personas:[<Persona 2>, <Persona 4>, <Persona 1>]
+DEBUG:app:Listado personas:3
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2022 13:17:51] "GET /index.html HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+DEBUG:app:Listado personas:SELECT persona.id AS persona_id, persona.nombre AS persona_nombre, persona.apellido AS persona_apellido, persona.email AS persona_email 
+FROM persona ORDER BY persona.id
+DEBUG:app:Listado personas:3
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2022 13:19:13] "GET /index.html HTTP/1.1" 200 -
